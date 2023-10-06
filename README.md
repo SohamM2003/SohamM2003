@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack Projects**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP, Node.js**
 
 - 📫 Contact me on **sohammandaliya@gmail.com**
 
