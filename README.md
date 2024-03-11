@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Mandaliya</h1>
 <h3 align="center">A Passionate Full Stack Web Developer.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MEAN stack**
 
-- 👯 I’m looking to collaborate on **MERN stack Projects**
+- 👯 I’m looking to collaborate on **MEAN stack Projects**
 
-- 💬 Ask me about **PHP, Node.js**
+- 💬 Ask me about **PHP, Node.js, React, Java**
 
 - 📫 Contact me on **sohammandaliya@gmail.com**
 
