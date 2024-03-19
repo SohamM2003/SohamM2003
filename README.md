@@ -1,17 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hello,%20%2,%20I%27m%20Soham&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true" />
 </p>
-<h3 align="center">A Passionate Full Stack Web Developer.</h3>
+<h1 align="center">A Passionate Full Stack Developer.</h1>
 
-- 🌱 I’m currently learning **MEAN stack**
+# 💡About Me:
 
-- 👯 I’m looking to collaborate on **MEAN stack Projects**
+- 💻 MEAN | MERN | Java | PHP
 
-- 💬 Ask me about **PHP, Node.js, React, Java**
+- 👯 I’m looking to collaborate on **WebDev Projects**
 
 - 📫 Contact me on **sohammandaliya@gmail.com**
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin)](https://linkedin.com/in/soham-mandaliya) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23FFFFFF.svg?logo=Instagram)](https://instagram.com/soham___2003) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFFFFF.svg?logo=Leetcode)](https://www.leetcode.com/soham2003) 
