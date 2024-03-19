@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soham Mandaliya</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=Hello,%20%2,%20I%27m%20Soham&descAlign=78&descAlignY=91&descSize=27&strokeWidth=0&animation=fadeIn&fontSize=50&reversal=true" />
+</p>
 <h3 align="center">A Passionate Full Stack Web Developer.</h3>
 
 - 🌱 I’m currently learning **MEAN stack**
