@@ -67,8 +67,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SohamM2003&icon=1&color=6)](https://visitcount.itsvg.in)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
