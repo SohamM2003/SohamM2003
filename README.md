@@ -10,7 +10,7 @@
 </p>
 
 - 💡 I like to explore new technologies and develop software solutions.
-- 🌱 i'm on track for learning **MEAN Stack Development**
+- 🌱 i'm on track for learning **MERN Stack Development**
 - 🫱🏻‍🫲🏻 I’m looking to collaborate on **WebDev Projects**
 - 📫 You can contact me on **sohammandaliya@gmail.com** ! I'll try to respond ASAP.
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/1IngtuT6jc4hFiib0KKLIoJocN4IUBvPG/view?usp=drive_link) for more details about me.
